@@ -1,0 +1,7 @@
+Facility_Cost
+Lab1_800
+Lab2_1200
+Lab3_500
+Lab4_50hgfgh_1000
+bgfg_100
+dfdg_100
